@@ -1,41 +1,43 @@
 ---
-title: Introduction
-type: docs
+title: Air-Sea Modeling Lab, Yonsei University
+description: Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of good alternatives out there.
+geekdocNav: false
+geekdocAlign: center
+geekdocAnchor: false
 ---
 
-# Acerbo datus maxime
+Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
 
-{{< columns >}}
-## Astris ipse furtiva
+<section>
+    <div class="video-background">
+        <div class="video-foreground">
+            <video poster="{{ .Site.Params.movie.snapfile }}" id="bgvid" playsinline autoplay muted loop>
+                <source src="convection_a.mp4" type="video/mp4">
+            </video>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-md-12">
+            <div class="vid-info">
+                <div>
+                    <h2>{{ .Site.Params.movie.title }}</h2>
+                        <p>{{ .Site.Params.movie.subtitle }}</p>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+                <div style="text-align: right;">
+                    <a style="color: #fff" href="{{ .Site.Params.movie.sourcefile }}" target="_blank">video source</a>
+                </div>
+            </div>
+        </div>
+    </div>
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
-
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+</section>
