@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KIAPS on ASML</title>
+    <title>KIAPS on air-sea modeling lab, yonsei university</title>
     <link>http://localhost/tags/KIAPS/</link>
-    <description>Recent content in KIAPS on ASML</description>
+    <description>Recent content in KIAPS on air-sea modeling lab, yonsei university</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 13 Nov 2018 23:57:16 +0900</lastBuildDate><atom:link href="http://localhost/tags/KIAPS/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Tue, 13 Nov 2018 23:57:16 +0900</pubDate>
       
       <guid>http://localhost/news/kiaps/</guid>
-      <description>2018 KIAPS International Symposium on the Global NWP System Modeling     Hajoon attended 2018 KIAPS International Symposiumand gave a talk on the strongly coupled physical and biogeochemical data assimilation. There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.</description>
+      <description>2018 KIAPS International Symposium on the Global NWP System Modeling     Hajoon attended 2018 KIAPS International Symposium and gave a talk on the strongly coupled physical and biogeochemical data assimilation. There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.</description>
     </item>
     
   </channel>

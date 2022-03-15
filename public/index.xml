@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ASML</title>
+    <title>air-sea modeling lab, yonsei university</title>
     <link>http://localhost/</link>
-    <description>Recent content on ASML</description>
+    <description>Recent content on air-sea modeling lab, yonsei university</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hajoon Song</title>
@@ -136,7 +136,7 @@ We also replaced old desks that have been sitting here long before I joined.</de
       
       <guid>http://localhost/news/webpage_update/</guid>
       <description>We made a major update of the lab webpage so that the pagination works well for the &amp;ldquo;News&amp;rdquo; section.
-It is built based on the theme called Airspace. Photos are mainly from NASA Goddard Flickr page, a vorticity field that Ryan Abernathey created using the MITgcm llc4320 simulationand other online places.
+It is built based on the theme called Airspace. Photos are mainly from NASA Goddard Flickr page, a vorticity field that Ryan Abernathey created using the MITgcm llc4320 simulation and other online places.
 Please let us know if there are things that do not work properly.</description>
     </item>
     
@@ -190,7 +190,7 @@ This visit was possible through the support from Korea Research Foundation (ì‹ ì
       <pubDate>Tue, 23 Jul 2019 22:10:57 -0400</pubDate>
       
       <guid>http://localhost/news/IUGG/</guid>
-      <description>27th IUGG General Assembly     Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet&amp;quot; in the 27th IUGG General Assembly(7/8 - 7/18, 2019) in Montreal, Canada. In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.
+      <description>27th IUGG General Assembly     Hajoon chaired the session &amp;ldquo;The Southern Ocean where the ocean and atmosphere meet &amp;quot; in the 27th IUGG General Assembly (7/8 - 7/18, 2019) in Montreal, Canada. In this session, he also gave a poster presentation about the recently published work on the near-inertial waves and carbon dioxide exchange between the air and sea.
 The poster can be downloaded from this link</description>
     </item>
     
@@ -298,7 +298,7 @@ He was told that this winter has been mild until a very cold air mass covered th
       <pubDate>Tue, 13 Nov 2018 23:57:16 +0900</pubDate>
       
       <guid>http://localhost/news/kiaps/</guid>
-      <description>2018 KIAPS International Symposium on the Global NWP System Modeling     Hajoon attended 2018 KIAPS International Symposiumand gave a talk on the strongly coupled physical and biogeochemical data assimilation. There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.</description>
+      <description>2018 KIAPS International Symposium on the Global NWP System Modeling     Hajoon attended 2018 KIAPS International Symposium and gave a talk on the strongly coupled physical and biogeochemical data assimilation. There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.</description>
     </item>
     
     <item>
@@ -307,7 +307,7 @@ He was told that this winter has been mild until a very cold air mass covered th
       <pubDate>Sat, 10 Nov 2018 23:58:04 +0900</pubDate>
       
       <guid>http://localhost/news/khoa/</guid>
-      <description>Korea Hydrographic and Oceanographic Agency     Hajoon attended the workshopon the future plan to utilize the observation from Ocean Research Stations around the Korean Peninsula. He presented how valuable biogeochemical measurements from these sites for the estimation of the biogeochemical ocean states using data assimilation.</description>
+      <description>Korea Hydrographic and Oceanographic Agency     Hajoon attended the workshop on the future plan to utilize the observation from Ocean Research Stations around the Korean Peninsula. He presented how valuable biogeochemical measurements from these sites for the estimation of the biogeochemical ocean states using data assimilation.</description>
     </item>
     
     <item>

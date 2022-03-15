@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meeting on ASML</title>
+    <title>meeting on air-sea modeling lab, yonsei university</title>
     <link>http://localhost/tags/meeting/</link>
-    <description>Recent content in meeting on ASML</description>
+    <description>Recent content in meeting on air-sea modeling lab, yonsei university</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 12 Apr 2019 23:57:16 +0900</lastBuildDate><atom:link href="http://localhost/tags/meeting/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -22,7 +22,7 @@ This talk presented his paper appeared on GRL, so the detailed information about
       <pubDate>Tue, 13 Nov 2018 23:57:16 +0900</pubDate>
       
       <guid>http://localhost/news/kiaps/</guid>
-      <description>2018 KIAPS International Symposium on the Global NWP System Modeling     Hajoon attended 2018 KIAPS International Symposiumand gave a talk on the strongly coupled physical and biogeochemical data assimilation. There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.</description>
+      <description>2018 KIAPS International Symposium on the Global NWP System Modeling     Hajoon attended 2018 KIAPS International Symposium and gave a talk on the strongly coupled physical and biogeochemical data assimilation. There were more than 30 experts on NWP and data assimilation from all over the world and shared the recent progress on their research.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@ This talk presented his paper appeared on GRL, so the detailed information about
       <pubDate>Sat, 10 Nov 2018 23:58:04 +0900</pubDate>
       
       <guid>http://localhost/news/khoa/</guid>
-      <description>Korea Hydrographic and Oceanographic Agency     Hajoon attended the workshopon the future plan to utilize the observation from Ocean Research Stations around the Korean Peninsula. He presented how valuable biogeochemical measurements from these sites for the estimation of the biogeochemical ocean states using data assimilation.</description>
+      <description>Korea Hydrographic and Oceanographic Agency     Hajoon attended the workshop on the future plan to utilize the observation from Ocean Research Stations around the Korean Peninsula. He presented how valuable biogeochemical measurements from these sites for the estimation of the biogeochemical ocean states using data assimilation.</description>
     </item>
     
     <item>
