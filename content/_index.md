@@ -1,45 +1,67 @@
 ---
-title: Air-Sea Modeling Lab, Yonsei University
-description: Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of good alternatives out there.
+#title: Air-Sea Modeling Lab, Yonsei University
 geekdocNav: false
 geekdocAlign: center
 geekdocAnchor: false
+geekdocEditPath:
+geekdocFilePath:
+geekdocRepo:
+geekdocBreadcrumb: false
+geekdocHidden: true
+resources:
+  - name: forest-1
+    src: "fromiss4.jpg"
+    title: Forest (1)
+    params:
+      credits: "[Jay Mantri](https://unsplash.com/@jaymantri) on [Unsplash](https://unsplash.com/s/photos/forest)"
 ---
-
-
-{{< button size="large" relref="research/airseacouple/" >}}Getting Started{{< /button >}}
-
-
-<section>
-    <div class="video-background">
-        <div class="video-foreground">
-            <video poster="{{ .Site.Params.movie.snapfile }}" id="bgvid" playsinline autoplay muted loop>
-                <source src="convection_a.mp4" type="video/mp4">
-            </video>
+<div class="swiffy-slider slider-item-show3 slider-item-reveal slider-nav-dark slider-nav-outside-expand">
+  <ul class="slider-container py-4" id="slider2">
+    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-1x1">
+          <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
-    </div>
-    <div class="container">
-        <div class="col-md-12">
-            <div class="vid-info">
-                <div>
-                    <h2>{{ .Site.Params.movie.title }}</h2>
-                        <p>{{ .Site.Params.movie.subtitle }}</p>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                    </div>
-                </div>
-                <div style="text-align: right;">
-                    <a style="color: #fff" href="{{ .Site.Params.movie.sourcefile }}" target="_blank">video source</a>
-                </div>
-            </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>LeBron 18</strong>
+            <p class="card-text">Basketball Shoes</p>
+          </div>
+          <div class="px-md-2">$200</div>
         </div>
-    </div>
+      </div>
+    </li>
+    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-1x1">
+          <img src="/images/fromiss2.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Nike Air Vapormax 2021 FK</strong>
+            <p class="card-text">Women's Shoes</p>
+          </div>
+          <div class="px-md-2">$200</div>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-1x1">
+          <img src="/images/fromiss3.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Nike Air Force 1 Fontanka</strong>
+            <p class="card-text">Women's Shoes</p>
+          </div>
+          <div class="px-md-2">$110</div>
+        </div>
+      </div>
+    </li>
+  </ul>
 
-</section>
+  <button type="button" class="slider-nav"></button>
+  <button type="button" class="slider-nav slider-nav-next"></button>
+</div>
+
