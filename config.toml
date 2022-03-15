@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "ASML"
+title = "air-sea modeling lab, yonsei university"
 theme = "hugo-geekdoc"
 
 # Required to get well formatted code blocks

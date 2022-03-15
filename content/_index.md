@@ -8,18 +8,12 @@ geekdocFilePath:
 geekdocRepo:
 geekdocBreadcrumb: false
 geekdocHidden: true
-resources:
-  - name: forest-1
-    src: "fromiss4.jpg"
-    title: Forest (1)
-    params:
-      credits: "[Jay Mantri](https://unsplash.com/@jaymantri) on [Unsplash](https://unsplash.com/s/photos/forest)"
 ---
-<div class="swiffy-slider slider-item-show3 slider-item-reveal slider-nav-dark slider-nav-outside-expand">
+<div class="swiffy-slider slider-item-show3 slider-item-reveal slider-nav-visible">
   <ul class="slider-container py-4" id="slider2">
     <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-1x1">
+        <div class="ratio ratio-4x3">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
@@ -33,8 +27,8 @@ resources:
     </li>
     <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-1x1">
-          <img src="/images/fromiss2.jpg" class="card-img-top" loading="lazy" alt="...">
+        <div class="ratio ratio-4x3">
+          <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
           <div class="flex-grow-1">
@@ -47,8 +41,64 @@ resources:
     </li>
     <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-1x1">
-          <img src="/images/fromiss3.jpg" class="card-img-top" loading="lazy" alt="...">
+        <div class="ratio ratio-4x3">
+          <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Nike Air Force 1 Fontanka</strong>
+            <p class="card-text">Women's Shoes</p>
+          </div>
+          <div class="px-md-2">$110</div>
+        </div>
+      </div>
+    </li>
+	    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-4x3">
+          <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Nike Air Force 1 Fontanka</strong>
+            <p class="card-text">Women's Shoes</p>
+          </div>
+          <div class="px-md-2">$110</div>
+        </div>
+      </div>
+    </li>
+	    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-4x3">
+          <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Nike Air Force 1 Fontanka</strong>
+            <p class="card-text">Women's Shoes</p>
+          </div>
+          <div class="px-md-2">$110</div>
+        </div>
+      </div>
+    </li>
+	    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-4x3">
+          <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
+        </div>
+        <div class="card-body d-flex flex-column flex-md-row">
+          <div class="flex-grow-1">
+            <strong>Nike Air Force 1 Fontanka</strong>
+            <p class="card-text">Women's Shoes</p>
+          </div>
+          <div class="px-md-2">$110</div>
+        </div>
+      </div>
+    </li>
+	    <li>
+      <div class="card shadow h-100">
+        <div class="ratio ratio-4x3">
+          <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
           <div class="flex-grow-1">
@@ -65,3 +115,4 @@ resources:
   <button type="button" class="slider-nav slider-nav-next"></button>
 </div>
 
+{{< button size="large" relref="research/airseacouple/" >}}Getting Started{{< /button >}}

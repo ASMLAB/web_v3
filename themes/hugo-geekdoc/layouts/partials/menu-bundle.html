@@ -52,19 +52,19 @@
                 {{ else }}
                   {{ relref $current .ref }}
                 {{ end }}"
-                class="gdoc-nav__entry {{ if not .external }}
-                  {{ if $isCurrent }}is-active{{ end }}
-                {{ end }}"
+                class="gdoc-nav__entry{{- if not .external }}
+                  {{- if $isCurrent }}{{ printf " is-active" }}{{ end }}
+                {{- end }}"
               >
                 {{ $name }}
               </a>
             </span>
             {{ if $doCollapse }}
-              <svg class="icon toggle gdoc_keyborad_arrow_left">
-                <use xlink:href="#gdoc_keyborad_arrow_left"></use>
+              <svg class="icon toggle gdoc_keyboard_arrow_left">
+                <use xlink:href="#gdoc_keyboard_arrow_left"></use>
               </svg>
-              <svg class="icon toggle gdoc_keyborad_arrow_down hidden">
-                <use xlink:href="#gdoc_keyborad_arrow_down"></use>
+              <svg class="icon toggle gdoc_keyboard_arrow_down hidden">
+                <use xlink:href="#gdoc_keyboard_arrow_down"></use>
               </svg>
             {{ end }}
           </label>
