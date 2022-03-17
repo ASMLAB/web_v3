@@ -13,7 +13,7 @@ geekdocHidden: true
   <ul class="slider-container py-4" id="slider2">
     <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-4x3">
+        <div class="ratio ratio-16x9">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
@@ -27,7 +27,7 @@ geekdocHidden: true
     </li>
     <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-4x3">
+        <div class="ratio ratio-16x9">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
@@ -41,7 +41,7 @@ geekdocHidden: true
     </li>
     <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-4x3">
+        <div class="ratio ratio-16x9">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
@@ -55,7 +55,7 @@ geekdocHidden: true
     </li>
 	    <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-4x3">
+        <div class="ratio ratio-16x9">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
@@ -69,7 +69,7 @@ geekdocHidden: true
     </li>
 	    <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-4x3">
+        <div class="ratio ratio-16x9">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
@@ -83,7 +83,7 @@ geekdocHidden: true
     </li>
 	    <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-4x3">
+        <div class="ratio ratio-16x9">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
@@ -97,7 +97,7 @@ geekdocHidden: true
     </li>
 	    <li>
       <div class="card shadow h-100">
-        <div class="ratio ratio-4x3">
+        <div class="ratio ratio-16x9">
           <img src="/images/fromiss.jpg" class="card-img-top" loading="lazy" alt="...">
         </div>
         <div class="card-body d-flex flex-column flex-md-row">
