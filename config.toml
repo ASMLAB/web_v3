@@ -2,6 +2,8 @@ baseURL = "http://localhost"
 title = "air-sea modeling lab, yonsei university"
 theme = "hugo-geekdoc"
 
+publishDir = "docs"
+
 # Required to get well formatted code blocks
 pygmentsUseClasses = true
 pygmentsCodeFences = true
